@@ -13,9 +13,14 @@ If you'd like to link to this list, feel free to use this badge:
 
 ## Contents 
 
-TBA 
+- Wordlists and Readings 
+- Flashcards 
+- Courses
+- Apps
+- Articles 
+- Other 
 
-## Heading
+## Wordlists and Readings 
 [Lenape Talking Dictionary](talk-lenape.org), abbreviated as LTD, The ultimate Lenape dictionary for the Southern Unami dialect. Created by the Delaware Tribe of Indians in Bartlesville with the project director being Jim Rementer. It has over 17k words. I started here!  
 
 [Mukurtu-Midwest](https://mukurtu-midwest.org/dictionary) A large public dictionary for the Munsee dialect (over 1k words), also features other languages including 14 words in the Mohican langauge. This is cool because there is a tribe that has both Munsee Lenape and Mohicans, the Stockbridge-Munsee Band of Mohican Indians! There is a community page of mukurtu that has a Stockbridge-Munsee Band of Mohicans community for members of that tribe. 
@@ -42,19 +47,29 @@ TBA
 
 [tabetha_super quizlets](https://quizlet.com/user/tabetha_super/sets) various decks on this quizlet for the Lenape language, most likely another Shelly Depaul student. This is for the Southern Unami Dialect.
 
+[nicky_michea14 quizlets](https://quizlet.com/user/nicky_michael4/sets) various decks on this quizlet for the Lenape language, some of them have different themes like "Kahèsëna Hàki Mother Earth Flashcards". Decks appear to be Southern Unami dialect, at the very least "Kahèsëna Hàki Mother Earth Flashcards" is. 
 
-## Course 
+[Beginner Lunaape Language Workshop Quizlet](https://quizlet.com/592494327/beginner-lunaape-language-workshop-flash-cards/) A Munsee dialect flash card deck on quizlet, the flash cards source to quote the description "Sources: The HHS Beginner Lunaape Language Workshop and YouTube Lenape Language with Karen Mosko (https://youtu.be/j-bsgK5f1yM)" 
+
+
+## Courses 
 [Shelly Depaul Language Course](https://6abc.com/post/lenape-teach-language-indigenous-people-of-pennsylvania-teaching-class/12482441/) this is a news article that goes over this awesome course with her email at the end to reachout to Depaul. This class is done over Zoom for free, with the textbook being the only cost. 
 
 [Student Projects](https://www1.swarthmore.edu/SocSci/Linguistics/LenapeLanguageResources/student.html) Public student projects from when the class was taught at swarthmore college in PA. 
+
+[The HHS Beginner Lunaape Language Workshop and YouTube Lenape Language with Karen Mosko](https://youtu.be/j-bsgK5f1yM) I haven't watched this yet but this is linked in a quizlet above and appears to be a Munsee dialect one off workshop. 
 
 ## Apps 
 [helleniechsin](https://apps.apple.com/us/app/helleniechsin/id432595183) old boy scouts app that is a dictionary for the Lenape language, uses 1888 as a source. Linked app on apple store but also is available for the kindle fire. From my use on the kindle fire it is really old and I am unable to see how many words were on here or how complete it is, according to twitter I'd hazard a guess that development was last done in 2013. If anyone was able to get this to work that would be awesome! As far as I'm aware this is the first public mobile app for the language. 
 
 [Lenape Vocab Builder](https://play.google.com/store/apps/details?id=org.endangeredlanguages.lenapevb2&hl=en_US) I noticed this app pop up in late 2025 and appears to be partnered with a Lenape Tribe in Oklahoma as judging by the logo, made with the language conservatory. This is very awesome that this is an app being made!! Also available on [ipad](https://apps.apple.com/il/app/lenape-vocab-builder/id6747041606) apparently, but I don't have an apple device so I can't test it to make sure. It currently has 10+ downloads, with me being one of them. I did share this with my classmates when I saw this! Currently unfinshed and has some "test" entries still. This is the second public app for the language. 
  
+## Articles 
+
+[Shelly Depaul Language Course](https://6abc.com/post/lenape-teach-language-indigenous-people-of-pennsylvania-teaching-class/12482441/) this is a news article that goes over this awesome course with her email at the end to reachout to Depaul. This class is done over Zoom for free, with the textbook being the only cost. 
+
+ 
+ 
 ## Other
 [Common Script/ Lenee Mamalekheekun](https://bighornlenape.com/common-script-lenee-mamalekheekun-t198.html) A apparent script for Lenape. I have made my own font based off of this I can also host on github and link here if anyone is interested with a guide. This is not really used anywhere else, including other spots on this site. This is awesome because I used to think that there were not writing systems for Lenape besides the one's made by linguists, so this is really cool. 
-
-
 

@@ -1,14 +1,10 @@
-<h1 align="center">
-    <br>
-    <img width="200" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="awesome list logo">
-    <br>
-</h1>
+# Ultimate-Lenape
+TLDR: The Ultimate List for the Lenape language.
 
-# Awesome-Lenape
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
-TLDR: An Awesome List for the Lenape language.
+This is a list for everything related to the Lenape language to help people of all levels in the language: people who are curious, beginners, teachers, etc. I got inspired by a "The Coding Sloth" video and got inspired by the Awesome List(s) mentioned in said video. That inspiration led me to create my own ultimate list with all of the information and sources for the Lenape Language that I have spent countless hours and hours researching over the course of my journey with this language. 
 
-This is an Awesome List for everything related to the Lenape language to help people of all levels in the languages: people who are just interested, beginners, teachers, etc. I saw a "The Coding Sloth" video and got inspired to make my own Awesome list with all of the information and sources for the Lenape Language that I have spent hours and hours researching over the course of my journey with this language. 
+If you'd like to link to this list, feel free to use this badge:
+[![Ultimate Lenape Language List](https://img.shields.io/badge/Ultimate_Lenape_Language_List-D50205](https://github.com/moorelanguage/awesome-lenape)
 
 ## Contents 
 

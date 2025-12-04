@@ -1,4 +1,4 @@
-# Ultimate-Lenape
+# Ultimate Lenape Language List
 TLDR: The Ultimate List for the Lenape language.
 
 This is a list for everything related to the Lenape language to help people of all levels in the language: people who are curious, beginners, teachers, etc. I got inspired by a "The Coding Sloth" video and got inspired by the Awesome List(s) mentioned in said video. That inspiration led me to create my own ultimate list with all of the information and sources for the Lenape Language that I have spent countless hours and hours researching over the course of my journey with this language. 

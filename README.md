@@ -4,7 +4,9 @@ TLDR: The Ultimate List for the Lenape language.
 This is a list for everything related to the Lenape language to help people of all levels in the language: people who are curious, beginners, teachers, etc. I got inspired by a "The Coding Sloth" video and got inspired by the Awesome List(s) mentioned in said video. That inspiration led me to create my own ultimate list with all of the information and sources for the Lenape Language that I have spent countless hours and hours researching over the course of my journey with this language. 
 
 If you'd like to link to this list, feel free to use this badge:
-[![Ultimate Lenape Language List](https://img.shields.io/badge/Ultimate_Lenape_Language_List-D50205](https://github.com/moorelanguage/awesome-lenape)
+
+[![Ultimate Lenape Language List](https://img.shields.io/badge/Ultimate_Lenape_Language_List-D50205)](https://github.com/moorelanguage/awesome-lenape)
+
 
 ## Contents 
 

@@ -31,7 +31,7 @@ TBA
 
 [James Rementer's Academia.edu](https://independent.academia.edu/JamesRementer) the Academia.edu page of the awesome linguist who is the project director of the LTD. 
 
-[Gilwell][https://www.gilwell.com/lenape] another public online dictionary for Lenape! Appears to use 1888 as the source, I don't think it copies all words from that book however and leaves some words and meanings from the book out.
+[Gilwell](https://www.gilwell.com/lenape) another public online dictionary for Lenape! Appears to use 1888 as the source, I don't think it copies all words from that book however and leaves some words and meanings from the book out.
 
 [Evolpub](http://www.evolpub.com/) publishes some Lenape wordlists! Has a public repository of their ebooks for people. The books relevant to Lenape is "Vol._03_Unami_Jargon", "Vol._05_NJ_Jargon", "Vol._10_NJ_Delaware", "Vol._12_Delaware", "Vol._15_Delaware", "Vol._29_Minsi". The books I list here are for a variety of dialects and the jargon/pidign language that stemmed from the unami dialect of Lenape. They also have other languages. 
 

@@ -8,7 +8,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
 TLDR: An Awesome List for the Lenape language.
 
-This is an Awesome List for everything related to the Lenape language to help people of all levels in the languages: people who are just interested, beginners, teachers, etc. 
+This is an Awesome List for everything related to the Lenape language to help people of all levels in the languages: people who are just interested, beginners, teachers, etc. I saw a "The Coding Sloth" video and got inspired to make my own Awesome list with all of the information and sources for the Lenape Language that I have spent hours and hours researching over the course of my journey with this language. 
 
 ## Contents 
 
@@ -31,6 +31,10 @@ TBA
 
 [James Rementer's Academia.edu](https://independent.academia.edu/JamesRementer) the Academia.edu page of the awesome linguist who is the project director of the LTD. 
 
+[Gilwell][https://www.gilwell.com/lenape] another public online dictionary for Lenape! Appears to use 1888 as the source, I don't think it copies all words from that book however and leaves some words and meanings from the book out.
+
+[Evolpub](http://www.evolpub.com/) publishes some Lenape wordlists! Has a public repository of their ebooks for people. The books relevant to Lenape is "Vol._03_Unami_Jargon", "Vol._05_NJ_Jargon", "Vol._10_NJ_Delaware", "Vol._12_Delaware", "Vol._15_Delaware", "Vol._29_Minsi". The books I list here are for a variety of dialects and the jargon/pidign language that stemmed from the unami dialect of Lenape. They also have other languages. 
+
 ## Flashcards 
 
 [vaia](https://app.vaia.com/studyset/10286672?ref=btXkep8f8okuKEuiyPfbFto0lP4aG14E&ref_type=studyset_share) a flashcard set made in 2023 by a student of the [Shelly Depaul Language Course](https://6abc.com/post/lenape-teach-language-indigenous-people-of-pennsylvania-teaching-class/12482441/). I manually imported this into anki, but there is no built in way to export a deck from Vaia to Anki. Maybe I'll host my local anki  version that probably has a mistake or two here if anyone is interested. This is for the Southern Unami Dialect.
@@ -38,10 +42,18 @@ TBA
 [tabetha_super quizlets](https://quizlet.com/user/tabetha_super/sets) various decks on this quizlet for the Lenape language, most likely another Shelly Depaul student. This is for the Southern Unami Dialect.
 
 
-
 ## Course 
 [Shelly Depaul Language Course](https://6abc.com/post/lenape-teach-language-indigenous-people-of-pennsylvania-teaching-class/12482441/) this is a news article that goes over this awesome course with her email at the end to reachout to Depaul. This class is done over Zoom for free, with the textbook being the only cost. 
 
 [Student Projects](https://www1.swarthmore.edu/SocSci/Linguistics/LenapeLanguageResources/student.html) Public student projects from when the class was taught at swarthmore college in PA. 
+
+## Apps 
+[helleniechsin](https://apps.apple.com/us/app/helleniechsin/id432595183) old boy scouts app that is a dictionary for the Lenape language, uses 1888 as a source. Linked app on apple store but also is available for the kindle fire. From my use on the kindle fire it is really old and I am unable to see how many words were on here or how complete it is, according to twitter I'd hazard a guess that development was last done in 2013. If anyone was able to get this to work that would be awesome! As far as I'm aware this is the first public mobile app for the language. 
+
+[Lenape Vocab Builder](https://play.google.com/store/apps/details?id=org.endangeredlanguages.lenapevb2&hl=en_US) I noticed this app pop up in late 2025 and appears to be partnered with a Lenape Tribe in Oklahoma as judging by the logo, made with the language conservatory. This is very awesome that this is an app being made!! Also available on [ipad](https://apps.apple.com/il/app/lenape-vocab-builder/id6747041606) apparently, but I don't have an apple device so I can't test it to make sure. It currently has 10+ downloads, with me being one of them. I did share this with my classmates when I saw this! Currently unfinshed and has some "test" entries still. This is the second public app for the language. 
+ 
+## Other
+[Common Script/ Lenee Mamalekheekun](https://bighornlenape.com/common-script-lenee-mamalekheekun-t198.html) A apparent script for Lenape. I have made my own font based off of this I can also host on github and link here if anyone is interested with a guide. This is not really used anywhere else, including other spots on this site. This is awesome because I used to think that there were not writing systems for Lenape besides the one's made by linguists, so this is really cool. 
+
 
 

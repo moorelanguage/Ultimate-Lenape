@@ -19,6 +19,7 @@ If you'd like to link to this list, feel free to use this badge:
 - Apps
 - Articles 
 - Other 
+- Meta (Meaning Extra Information about this List in particular)
 
 ## Wordlists and Readings 
 [Lenape Talking Dictionary](talk-lenape.org), abbreviated as LTD, The ultimate Lenape dictionary for the Southern Unami dialect. Created by the Delaware Tribe of Indians in Bartlesville with the project director being Jim Rementer. It has over 17k words. I started here!  
@@ -73,3 +74,16 @@ If you'd like to link to this list, feel free to use this badge:
 ## Other
 [Common Script/ Lenee Mamalekheekun](https://bighornlenape.com/common-script-lenee-mamalekheekun-t198.html) A apparent script for Lenape. I have made my own font based off of this I can also host on github and link here if anyone is interested with a guide. This is not really used anywhere else, including other spots on this site. This is awesome because I used to think that there were not writing systems for Lenape besides the one's made by linguists, so this is really cool. 
 
+## Meta 
+Tools: 
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#) also used for editing the list.  
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&logo=github&logoColor=white)](#) host and used this to edit and make the intial file.   
+[![Zotero](https://img.shields.io/badge/Zotero-BD1C2B.svg?&logo=zotero&logoColor=white)](#) One of the places where I have sources/sources info saved that I will put on this list.   
+[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#) One of the places where I have sources/sources info saved that I will put on this list.  
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#) as the markup language.   
+
+Language of list: 
+[![English](https://img.shields.io/badge/English-808080?logo=none)](#)   
+
+Languages of sources:
+Badges are TBA. But so far I've listed English and one Latin source, but I know there are german sources (those I know of all have English Translations). 

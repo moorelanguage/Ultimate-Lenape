@@ -52,6 +52,8 @@ If you'd like to link to this list, feel free to use this badge:
 
 [Beginner Lunaape Language Workshop Quizlet](https://quizlet.com/592494327/beginner-lunaape-language-workshop-flash-cards/) A Munsee dialect flash card deck on quizlet, the flash cards source to quote the description "Sources: The HHS Beginner Lunaape Language Workshop and YouTube Lenape Language with Karen Mosko (https://youtu.be/j-bsgK5f1yM)" 
 
+[fxdpfmc54t quizlet](https://quizlet.com/user/fxdpfmc54t/sets) has animal and body quizlets for the lenape language. 
+
 
 ## Courses 
 [Shelly Depaul Language Course](https://6abc.com/post/lenape-teach-language-indigenous-people-of-pennsylvania-teaching-class/12482441/) this is a news article that goes over this awesome course with her email at the end to reachout to Depaul. This class is done over Zoom for free, with the textbook being the only cost. 
@@ -59,6 +61,8 @@ If you'd like to link to this list, feel free to use this badge:
 [Student Projects](https://www1.swarthmore.edu/SocSci/Linguistics/LenapeLanguageResources/student.html) Public student projects from when the class was taught at swarthmore college in PA. 
 
 [The HHS Beginner Lunaape Language Workshop and YouTube Lenape Language with Karen Mosko](https://youtu.be/j-bsgK5f1yM) I haven't watched this yet but this is linked in a quizlet above and appears to be a Munsee dialect one off workshop. 
+
+[Big Horn Forum Lessons](https://bighornlenape.com/lenape-language-f15/) this forum has a series of lessons that teaches the Northern Unami dialect, specifically the Big Horn Lenape dialect.
 
 ## Apps 
 [helleniechsin](https://apps.apple.com/us/app/helleniechsin/id432595183) old boy scouts app that is a dictionary for the Lenape language, uses 1888 as a source. Linked app on apple store but also is available for the kindle fire. From my use on the kindle fire it is really old and I am unable to see how many words were on here or how complete it is, according to twitter I'd hazard a guess that development was last done in 2013. If anyone was able to get this to work that would be awesome! As far as I'm aware this is the first public mobile app for the language. 
@@ -69,8 +73,15 @@ If you'd like to link to this list, feel free to use this badge:
 
 [Shelly Depaul Language Course](https://6abc.com/post/lenape-teach-language-indigenous-people-of-pennsylvania-teaching-class/12482441/) this is a news article that goes over this awesome course with her email at the end to reachout to Depaul. This class is done over Zoom for free, with the textbook being the only cost. 
 
+[Penn student co-creates AI-translator to spread awareness about Lenape language, history](https://www.thedp.com/article/2023/11/student-creates-ai-translator-to-share-lenape-culture) an article about an AI Lenape project, specifically to aim as a translator for Lenape. Here's the link to the app directly [Lenalingua](https://lenalingua.streamlit.app/). I asked it as a test "could you translate I am tired into Lenape" (it asked what language when i left out "Lenape") and the AI chatbot responded "Response: In Lenape, "I am tired" can be translated as "Ntëmëw.""  which is not correct for any dialect as far as I know. Newikihela would be the correct answer I was looking for. It appears that it does actually have some sort of basis on Lenape, as teme is a lenape word meaning wolf and the "nt" pattern is found in various words meaning "I am", so that's actually pretty decent in my opinion. This project appears to be from 2023 and to test it I had to "wake" it up, so keep that in mind. It is noble to develop technology for the language, props to this person. 
+
+[Putting the fourth crow in the sky: Using narrative to understand the experiences of one non-heritage learner of an endangered language.](https://www.researchgate.net/publication/277145407_Putting_the_fourth_crow_in_the_sky_Using_narrative_to_understand_the_experiences_of_one_non-heritage_learner_of_an_endangered_language) research paper on the Lenape Language, specifically the author Miranda Weinberg writes about learning the Lenape Language as a non-heritage learner. 
+
+[Ways of Talking (and Acting) About Language Reclamation: An Ethnographic Perspective on Learning Lenape in Pennsylvania](https://www.researchgate.net/publication/290493049_Ways_of_Talking_and_Acting_About_Language_Reclamation_An_Ethnographic_Perspective_on_Learning_Lenape_in_Pennsylvania) open access research paper on the Lenape Language, specifically going over Learning Lenape in PA. 
+
+[Who can speak Lenape in Pennsylvania? Authentication and language learning in an endangered language community of practice](https://www.researchgate.net/publication/277027431_Who_can_speak_Lenape_in_Pennsylvania_Authentication_and_language_learning_in_an_endangered_language_community_of_practice) Another research paper on the Lenape Language, specifically going over Learning Lenape in PA. 
  
- 
+
 ## Other
 [Common Script/ Lenee Mamalekheekun](https://bighornlenape.com/common-script-lenee-mamalekheekun-t198.html) A apparent script for Lenape. I have made my own font based off of this I can also host on github and link here if anyone is interested with a guide. This is not really used anywhere else, including other spots on this site. This is awesome because I used to think that there were not writing systems for Lenape besides the one's made by linguists, so this is really cool. 
 

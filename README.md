@@ -42,6 +42,10 @@ If you'd like to link to this list, feel free to use this badge:
 
 [Evolpub](http://www.evolpub.com/) publishes some Lenape wordlists! Has a public repository of their ebooks for people. The books relevant to Lenape is "Vol._03_Unami_Jargon", "Vol._05_NJ_Jargon", "Vol._10_NJ_Delaware", "Vol._12_Delaware", "Vol._15_Delaware", "Vol._29_Minsi". The books I list here are for a variety of dialects and the jargon/pidign language that stemmed from the unami dialect of Lenape. They also have other languages. 
 
+[Goldeneagle’s vocabulary](https://www.bigorrin.org/archive38.htm) a Lenape Southern Unami Dialect wordlist. 
+
+
+
 ## Flashcards 
 
 [vaia](https://app.vaia.com/studyset/10286672?ref=btXkep8f8okuKEuiyPfbFto0lP4aG14E&ref_type=studyset_share) a flashcard set made in 2023 by a student of the [Shelly Depaul Language Course](https://6abc.com/post/lenape-teach-language-indigenous-people-of-pennsylvania-teaching-class/12482441/). I manually imported this into anki, but there is no built in way to export a deck from Vaia to Anki. Maybe I'll host my local anki  version that probably has a mistake or two here if anyone is interested. This is for the Southern Unami Dialect.
@@ -80,10 +84,13 @@ If you'd like to link to this list, feel free to use this badge:
 [Ways of Talking (and Acting) About Language Reclamation: An Ethnographic Perspective on Learning Lenape in Pennsylvania](https://www.researchgate.net/publication/290493049_Ways_of_Talking_and_Acting_About_Language_Reclamation_An_Ethnographic_Perspective_on_Learning_Lenape_in_Pennsylvania) open access research paper on the Lenape Language, specifically going over Learning Lenape in PA. 
 
 [Who can speak Lenape in Pennsylvania? Authentication and language learning in an endangered language community of practice](https://www.researchgate.net/publication/277027431_Who_can_speak_Lenape_in_Pennsylvania_Authentication_and_language_learning_in_an_endangered_language_community_of_practice) Another research paper on the Lenape Language, specifically going over Learning Lenape in PA. 
- 
+
 
 ## Other
 [Common Script/ Lenee Mamalekheekun](https://bighornlenape.com/common-script-lenee-mamalekheekun-t198.html) A apparent script for Lenape. I have made my own font based off of this I can also host on github and link here if anyone is interested with a guide. This is not really used anywhere else, including other spots on this site. This is awesome because I used to think that there were not writing systems for Lenape besides the one's made by linguists, so this is really cool. 
+
+[Jim Rementer Collection, Sam Noble Museum Department of Native American Languages.](https://samnoblemuseum.ou.edu/collections-and-research/native-american-languages/native-american-languages-collections/jim-rementer-collection/) You can contacct the email address on this if you would like to access any of these materials in the Jim Remneter Collection. You can also [Unami Language](https://samnoblemuseum.ou.edu/collections-and-research/native-american-languages/map-of-oklahoma-languages/unami-language/) go here and request materials. 
+   
 
 ## Meta 
 Tools:   

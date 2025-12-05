@@ -1,4 +1,5 @@
 # changelog
+2025-12-05 5:14 pm created github pages for this repo
 2025-12-04 7:06 pm pushed github. 
 2025-12-04 6:29 pm added a quizlet. still hasn't put on github yet. 
 2025-12-04 5:31 pm added some articles, including research papers under that catagory for now. Not putting on github yet. 

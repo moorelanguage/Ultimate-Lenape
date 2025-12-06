@@ -1,4 +1,5 @@
 # changelog
+2026-12-06 2:11 am added meta buttons. 
 2025-12-05 5:14 pm created github pages for this repo
 2025-12-04 7:13 pm added to other catagory. 
 2025-12-04 7:06 pm pushed github. 

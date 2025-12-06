@@ -93,15 +93,22 @@ If you'd like to link to this list, feel free to use this badge:
    
 
 ## Meta 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/moorelanguage/Ultimate-Lenape)
+
 Tools:   
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#) also used for editing the list.  
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&logo=github&logoColor=white)](#) host and used this to edit and make the intial file.   
 [![Zotero](https://img.shields.io/badge/Zotero-BD1C2B.svg?&logo=zotero&logoColor=white)](#) One of the places where I have sources/sources info saved that I will put on this list.   
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#) One of the places where I have sources/sources info saved that I will put on this list.  
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#) as the markup language.   
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-deployed-blue?logo=github)   
 
 Language of list: 
 [![English](https://img.shields.io/badge/English-808080?logo=none)](#)   
 
 Languages of sources:
-Badges are TBA. But so far I've listed English and one Latin source, but I know there are german sources (those I know of all have English Translations). 
+![Latin](https://img.shields.io/badge/Latin-ff2b2b?logo=none)   
+![German](https://img.shields.io/badge/German-B22222?logo=none)   
+ 
+So far I've listed English and one Latin source, but I know there are german sources (those I know of all have English Translations). 

@@ -108,7 +108,6 @@ Language of list:
 [![English](https://img.shields.io/badge/English-808080?logo=none)](#)   
 
 Languages of sources:
-![Latin](https://img.shields.io/badge/Latin-ff2b2b?logo=none)   
-![German](https://img.shields.io/badge/German-B22222?logo=none)   
+[![English](https://img.shields.io/badge/English-808080?logo=none)](#) ![Latin](https://img.shields.io/badge/Latin-ff2b2b?logo=none) ![German](https://img.shields.io/badge/German-B22222?logo=none)   
  
 So far I've listed English and one Latin source, but I know there are german sources (those I know of all have English Translations). 

@@ -44,6 +44,14 @@ If you'd like to link to this list, feel free to use this badge:
 
 [Goldeneagle’s vocabulary](https://www.bigorrin.org/archive38.htm) a Lenape Southern Unami Dialect wordlist. 
 
+[thealthnor Lene Lenape Dictionary](https://www.scribd.com/document/535978710/Lene-Lenape-Dictionary) from Scribd, which is [a repost of this .pdf from the order of the arrow.](https://web.archive.org/web/20231201010913/https://oa-bsa.org/uploads/publications/LenniLenapeWordList.pdf) this should also be still available not on archive.org at OA-SCOUTING.ORG according to my personal notes in my bibliography I have. 
+
+[3 Delaware Works Whritenour](https://www.academia.edu/110065170/3_Delaware_Works) 
+
+[A collection of hymns, in Muncey and English, for the use of the native Indians translated by Charles Halfmoon](https://babel.hathitrust.org/cgi/pt?id=aeu.ark:/13960/t3320bm2d&seq=8) an edition of A collection of hymns, in Muncey and English, for the use of the native Indians translated by Charles Halfmoon avialable on hathitrust with a full download available, and an option to download one page if there's a particular page you want to download for whatever reason. Muncey is a spelling varation of Munsee. 
+
+[Delaware (Lenape) Tribe of Indians: Common Words and Phrases in Lenape.](https://lenapelady.tripod.com/Delaware/words.html) a lenape southern unami dialect wordlist.
+
 
 
 ## Flashcards 
@@ -85,12 +93,18 @@ If you'd like to link to this list, feel free to use this badge:
 
 [Who can speak Lenape in Pennsylvania? Authentication and language learning in an endangered language community of practice](https://www.researchgate.net/publication/277027431_Who_can_speak_Lenape_in_Pennsylvania_Authentication_and_language_learning_in_an_endangered_language_community_of_practice) Another research paper on the Lenape Language, specifically going over Learning Lenape in PA. 
 
+[Chambers, Steve. "The vanishing voice of the Lenape." Star-Ledger](https://web.archive.org/web/20160504025724/http://www.nj.com/specialprojects/lenape/lenape1.html) this is an archived vesrion of this article with some Lenape phrases in it that talks about a man's journey learning Lenape. Archive.org is down while I write this at 1:33 am on 2025-12-07 so I can't double check the link.  
 
+[“In Our Own Language”: Lenape Hymnals in the Rare Book Collection](https://blogs.loc.gov/bibliomania/2023/11/22/in-our-own-language-lenape-hymnals-in-the-rare-book-collection/) This is an article about this book in the rare book collection in loc.gov 
+ 
 ## Other
 [Common Script/ Lenee Mamalekheekun](https://bighornlenape.com/common-script-lenee-mamalekheekun-t198.html) A apparent script for Lenape. I have made my own font based off of this I can also host on github and link here if anyone is interested with a guide. This is not really used anywhere else, including other spots on this site. This is awesome because I used to think that there were not writing systems for Lenape besides the one's made by linguists, so this is really cool. 
 
 [Jim Rementer Collection, Sam Noble Museum Department of Native American Languages.](https://samnoblemuseum.ou.edu/collections-and-research/native-american-languages/native-american-languages-collections/jim-rementer-collection/) You can contacct the email address on this if you would like to access any of these materials in the Jim Remneter Collection. You can also [Unami Language](https://samnoblemuseum.ou.edu/collections-and-research/native-american-languages/map-of-oklahoma-languages/unami-language/) go here and request materials. 
-   
+
+[fourth crow prophecy](https://archive.ph/8bpE1) from the Lenape Nation of PA, both English and Lenape.      
+    
+
 
 ## Meta 
 [About Me](https://moorelanguage.github.io/moorelanguage/)   

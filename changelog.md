@@ -1,4 +1,5 @@
 # changelog
+2025-12-07 1:21 am added about me link from github pages to the bottom of this repo. 
 2025-12-06 2:19 am corrected date on last changelog entry from 2026 -> 2025. that was not a commit from a future lol. also MINOR adjustments to meta button section. 
 2025-12-06 2:11 am added meta buttons. 
 2025-12-05 5:14 pm created github pages for this repo

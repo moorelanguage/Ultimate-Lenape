@@ -93,6 +93,7 @@ If you'd like to link to this list, feel free to use this badge:
    
 
 ## Meta 
+[About Me](https://moorelanguage.github.io/moorelanguage/)   
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Last Commit](https://img.shields.io/github/last-commit/moorelanguage/Ultimate-Lenape)
 

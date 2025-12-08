@@ -8,7 +8,7 @@ This is a list for everything related to the Lenape language to help people of a
 
 If you'd like to link to this list, feel free to use this badge:
 
-[![Ultimate Lenape Language List](https://img.shields.io/badge/Ultimate_Lenape_Language_List-D50205)](https://github.com/moorelanguage/awesome-lenape)
+[![Ultimate Lenape Language List](https://img.shields.io/badge/Ultimate_Lenape_Language_List-D50205)](https://https://github.com/moorelanguage/Ultimate-Lenape)
 
 
 ## Contents 
